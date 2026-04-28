@@ -1,0 +1,47 @@
+body {
+    background-color: #f5f5f7;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    color: #1d1d1f;
+}
+
+.custom-container {
+    max-width: 1000px;
+}
+
+.banner-img {
+    transition: transform 0.5s ease;
+    object-position: center 1%;
+}
+.artist-banner:hover .banner-img {
+    transform: scale(1.05);
+}
+
+.hover-shadow-custom {
+    transition: box-shadow 0.3s ease;
+}
+.hover-shadow-custom:hover {
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15) !important;
+}
+
+.event-item {
+    transition: background-color 0.2s ease;
+}
+.event-item:hover {
+    background-color: #fafafa;
+}
+
+.btn-custom {
+    background-color: #202020;
+    color: white;
+    font-size: 12px;
+    transition: background-color 0.2s;
+}
+
+.btn-custom:hover {
+    background-color: #535353;
+    color: white;
+}
+
+
+
+
