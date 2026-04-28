@@ -1,13 +1,10 @@
-.custom-container {
-    max-width: 1050px;
+body {
+    background-color: #ebebfb;
+    font-family: "Plus Jakarta Sans", sans-serif;
 }
 
-body {
-    font-family: "Plus Jakarta Sans", sans-serif;
-
-
-    color: #1c1c2c;
-    background-color: #7d7df4;
+.custom-container {
+    max-width: 1000px;
 }
 
 .banner-img {
