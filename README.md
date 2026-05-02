@@ -1,4 +1,4 @@
-﻿# praktikum-git-25-564274-SV-26806
+﻿# praktikum-git-564274
 
 ![Project Screenshot](./gitLog.png)
 
